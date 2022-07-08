@@ -1,0 +1,10 @@
+ioo : query [ : + 
+
+add+() : "+" ;
+open+o("open.ioo") ;
+setting+s("s.ioo") ;
+
+] ;
+
+s.ioo[+/dir:docs/[/ioorp/]] ;
++ioo.git[ioorp.github.io] , .ioo[io+ioorp+ioo] ;
